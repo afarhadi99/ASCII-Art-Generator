@@ -1,5 +1,5 @@
 <a href="">
-  <img alt="\Rain Sim" src="https://github.com/afarhadi99/rain-simulation/blob/master/public/screenshot.jpg">
+  <img alt="\Rain Sim" src="https://github.com/afarhadi99/ASCII-Art-Generator/blob/main/screenshot.jpg">
 </a>
 
 # Image to ASCII Art Converter
